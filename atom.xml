@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://s-ophie.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://s-ophie.github.io/"/>
   <updated>2022-03-17T09:50:25.929Z</updated>
-  <id>http://example.com/</id>
+  <id>https://s-ophie.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/03/17/hello-world/"/>
-    <id>http://example.com/2022/03/17/hello-world/</id>
+    <link href="https://s-ophie.github.io/2022/03/17/hello-world/"/>
+    <id>https://s-ophie.github.io/2022/03/17/hello-world/</id>
     <published>2022-03-17T09:50:25.929Z</published>
     <updated>2022-03-17T09:50:25.929Z</updated>
     
